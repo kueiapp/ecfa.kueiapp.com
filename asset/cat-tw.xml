@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+臺灣方面的開放承諾
+
+服務部門的分類使用世界貿易組織「服務貿易總協定」服務部門分類(GNS/W/120),服務部門的內
+容參照聯合國中央產品分類暫行版(CPC, United Nations Provisional Central Product Classification,
+ST/ESA/STAT/SER.M/77)。
+
+子類別(cat-second)的承諾使用cat-promise
+細項(item)的承諾使用item-promise
+
+test by drive-notepad
+-->
+
+<root>
+    <cat-first value="1" description="商業服務">
+        <cat-second value="1" description="電腦及其相關服務">
+            <item value="1" description="與電腦硬體安裝有關之諮詢服務(CPC841)" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=841">
+                硬體安裝相關的顧問服務：8410，幫客戶端裝硬體設備、架網路。
+            </item>
+            <item value="2" description="軟體執行服務(CPC842)"  url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=842">
+8421系統和軟體顧問服務 
+                8422系統分析服務 
+                8423系統設計服務 
+                8424程式撰寫服務 
+                8425系統維護服務
+            </item>
+            <item value="3" description="資料處理服務(CPC843)"  url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=843">Input preparation services ：84310，資料輸入相關服務。
+Data processing and tabulation services：84320，資料處理與制表服務，計算機計算服務，租借計算機時間（用來進行運算）等。
+Time sharing services：84330，跟84320大同小異，最大的差異是「計算機時間」是顧客用買的（包含通訊服務）。
+Other data processing services：84390，維護客戶電腦設備的所有操作，如機房品質控管服務等。</item>
+            <item value="4" description="資料庫服務(CPC844)"  url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=844">資料庫透過通訊網路能提供的所有服務。［排除］CPC7523 (Data and message transmission services)中通信數據交換的部分，以及從資料庫中檢索文獻資訊的服務(定義於 CPC96311圖書館服務)。</item>
+            <item value="5" description="其他(CPC845+849)"  url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=84">
+                845 辦公設備、電腦及相關設備的維修及保養服務。
+849：
+84910，Data preparation services 為客戶資料準備之服務。［排除］不涉及資料處理服務。
+84990，其他未分類服務，如客戶員工培訓服務和其他專業電腦服務。</item>
+            <!-- 所有items共同的承諾內容 -->
+            <cat-promise value="1" description="跨境提供服務">沒有限制</cat-promise>
+            <cat-promise value="2" description="境外消費">沒有限制</cat-promise>
+            <cat-promise value="3" description="商業據點呈現">
+                允許大陸服務提供者在臺灣以獨資、合資、合夥及設立分公司等形式設立商業據點,提供電腦及其相關服務。
+            </cat-promise>
+            <cat-promise value="4" description="自然人呈現">
+                除有關下列各類自然人之進入臺灣及短期停留措施外,不予承諾:
+i.商業訪客進入臺灣停留期間不得超過三個
+月。
+(商業訪客係指為參加商務會議、商務談
+判、籌建商業據點或其他類似活動,而在
+臺灣停留的自然人,且停留期間未接受來
+自臺灣方面支付的酬勞,亦未對大眾從事
+直接銷售的活動。)
+ii.跨國企業內部調動人員進入臺灣初次停留
+期間為三年,惟可申請展延,每次不得逾
+三年,且展延次數無限制。
+(跨國企業內部調動人員係指被其他世界貿
+易組織會員的法人僱用滿一年,透過在臺
+灣設立的分公司、子公司或分支機構,以
+負責人、高級經理人員或專家身分,短期
+進入臺灣以提供服務的自然人。
+「負責人」係指董事、總經理、分公司經
+理或經董事會授權得代表公司的部門
+負責人。
+「高級經理人員」
+係指有權任免或推薦公
+司人員
+,且對日常業務有決策權的部門
+負責人或管理人員。
+「專家」係指組織內擁有先進的專業技
+術,且對該組織的服務、研發設備、技
+術或管理擁有專門知識的人員
+。專家包
+括,但不限於,取得專門職業證照者。)
+iii.在臺灣無商業據點的大陸企業所僱用的
+人員得依下列條件進入臺灣及停留:
+(i)該大陸企業已與在臺灣從事商業活動
+的企業簽訂驗貨、售後服務、技術指導
+等,及其他與左列服務相關的服務契
+約。
+(ii)此類人員應符合前述「專家」的定義。
+(iii)此類人員在臺灣期間不得從事其他與
+服務契約無關的服務活動。
+(iv)本項承諾僅限於契約所定的服務行
+為
+。並未給予此類人員以取得專業證照
+的身分,在臺灣廣泛執業的資格。
+每次停留的期間不得超過三個月或契約
+期間,以較短者為準。此類進入許可的有
+效期間自核發的翌日起算為三個月至三
+年。符合條件者可在許可有效期間內多次
+進入臺灣。
+            </cat-promise>
+            <cat-promise value="5" description="其他承諾">-</cat-promise>
+        </cat-second>
+        
+        <cat-second value="2" description="未附操作員之租賃服務">
+            <item value="1" description="航空器租賃(涉及航空權者除外) (CPC83104**)" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=83104">租賃或出租無須操作員的飛行器（直升機、飛機）之服務。［排除］73400，提供操作者的飛行器租賃或出租、83204，熱氣球、飛船、滑翔翼等飛行設備。
+                            <!-- 各別item的承諾內容 -->
+                <item-promise value="1" description="跨境提供服務">沒有限制</item-promise>
+                <item-promise value="2" description="境外消費">沒有限制</item-promise>
+                <item-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣以獨資、合資、合夥及設立分公司等形式設立商業據點，提供航空器租賃服務。</item-promise>
+                <item-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾。</item-promise>
+                <item-promise value="5" description="其他承諾">無</item-promise>
+            </item>
+            <item value="2" description="自用小客車租賃(CPC83101**)" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=83101">
+                出租或租賃不含駕駛員的小客車。［排除］71222，出租或租賃含駕駛員的小客車載送服務。
+                <item-promise value="1" description="跨境提供服務">沒有限制</item-promise>
+                <item-promise value="2" description="境外消費">沒有限制</item-promise>
+                <item-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣以獨資、合資、合夥及設立分公司等形式設立商業據點，提供自用小客車租賃服務。</item-promise>
+                <item-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾。</item-promise>
+                <item-promise value="5" description="其他承諾">無</item-promise>
+                
+            </item>
+            <item value="3" description="其它機器與設備租賃(CPC83106-83109)(電信設備及電力設備租賃除外)" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=8310">
+                83106，出租或租賃農業機械和設備，不含操作者。包括農業牽引機（tractors）與機具，播種耕作收成相關機械。［排除］88110，租用或僱用農業機械設備與操作員的服務 。
+
+83107，出租或租賃施工用的機械和設備，不含操作者。 包括營造與土方用途的牽引機（tractors）， 道路平地機（road graders），壓路機（steamrollers），推土機（dozers），挖掘機械（excavating machinery）， 前端裝載機（front-end loaders）等租賃服務。［排除］51800，租用或僱用施工用的機械設備含操作員的服務。
+
+83108，出租或租賃租用辦公機械和設備（包括電腦），不含操作者。包括各類辦公用機械及設備，如影印機，打字機及文字處理機；會計機械及設備，如電子計算機，收銀機及附有計算裝置的其他機器，以及計算機械設備，如自動數據處理設備，中央處理單元，外部裝置和磁性或光學讀取設備。
+
+    ［排除］843，出租或僱用計算機或計算機相關設備服務，包含操作者與管理，以及子項目84330。但是，台灣在電腦及其相關服務業已開放CPC843，所以這邊的排除對於整體而言相當於沒排除。83109，出租或租賃其他機械和設備，不含操作者。包括電動或非電動的各種機械，如引擎和渦輪機， 工具機（machine tools），礦業和油田設備，商業用收音機，電視和通信設備，專業科學測量和控制裝置，以及其他商業和工業機械。
+
+                <item-promise value="1" description="跨境提供服務">沒有限制</item-promise>
+                <item-promise value="2" description="境外消費">沒有限制</item-promise>
+                <item-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣以獨資、合資、合夥及設立分公司等形式設立商業據點，提供其它機器與設備租賃服務。</item-promise>
+                <item-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾。</item-promise>
+                <item-promise value="5" description="其他承諾">無</item-promise>
+            </item>            
+        </cat-second>
+        
+        <cat-second value="3" description="其他商業服務">
+            <item value="1" description="廣告服務業(CPC871**)(廣播電視廣告業除外)" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=871">
+                87110，出售或出租報紙、刊物、電視台之廣告空間或時段的服務。
+                <item-promise value="1" description="跨境提供服務">沒有限制</item-promise>
+                <item-promise value="2" description="境外消費">沒有限制</item-promise>
+                <item-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣以獨資、合資、合夥及設立分公司等形式設立商業據點，提供廣告服務。</item-promise>
+                <item-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾。</item-promise>
+                <item-promise value="5" description="其他承諾">無</item-promise>
+            </item>
+            <item value="2" description="市場研究服務業(CPC86401**，限於市場分析、消費者態度和偏好的分析)" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=86401">
+                產品在市場上的前景與表現的調查服務，包括市場分析，消費者意象和偏好的分析，透過個人訪談，電話和郵件調查， 歷史數據等等。產業分析，經濟模型，人口分析等也包括在內。［排除］86402，對社經、政治議題的公民意見調查。
+                <item-promise value="1" description="跨境提供服務">沒有限制</item-promise>
+                <item-promise value="2" description="境外消費">沒有限制</item-promise>
+                <item-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣設立合資、合夥企業，提供市場研究服務。</item-promise>
+                <item-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾。</item-promise>
+                <item-promise value="5" description="其他承諾">-</item-promise>
+            </item>
+            <item value="3" description="管理顧問服務業(CPC865)" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=865">
+                1.一般管理顧問服務（General management consulting services）86501
+2.營業稅之外的財政管理顧問服務（Financial management consulting services (except business tax)）86502
+3.市場管理顧問服務（Marketing management consulting services）86503
+4.人力資源管理顧問服務（Human resources management consulting services）86504
+5.產品管理顧問服務（Production management consulting services）86505
+6.公共關係服務（Public relations services）86506
+7.其他管理顧問服務（Other management consulting services）86509
+
+    其他管理顧問服務指的是產業發展顧問與旅遊發展顧問。
+
+                <item-promise value="1" description="跨境提供服務">沒有限制</item-promise>
+                <item-promise value="2" description="境外消費">沒有限制</item-promise>
+                <item-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣以獨資、合資、合夥及設立分公司等形式設立商業據點，提供管理顧問服務。</item-promise>
+                <item-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾。</item-promise>
+                <item-promise value="5" description="其他承諾">無</item-promise>
+            </item>
+            <item value="4" description="技術檢測與分析服務業(CPC8676)—車輛、機械、電機、電子、化工、度量衡、酒類產品及環境檢測的技術檢測及分析服務" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=8676">
+86761，成分和純度檢測和分析服務。
+86762，測試和分析物理性質的服務。
+86763，整合機電系統的測試和分析服務。
+86764，技術檢驗服務。
+86769，其他技術測試和分析服務（不在以上幾類的技術檢測及分析服務）
+                <item-promise value="1" description="跨境提供服務">沒有限制</item-promise>
+                <item-promise value="2" description="境外消費">沒有限制</item-promise>
+                <item-promise value="3" description="商業據點呈現">i.允許大陸服務提供者在臺灣以獨資、合資、合夥及設立分公司等形式設立商業據點，提供技術檢測與分析服務。
+ii.在互信互利的基礎上，允許在大陸的檢測驗證機構與臺灣檢測驗證機構展開檢測數據(結果)的接受合作。具體合作安排另行商定。</item-promise>
+                <item-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾。</item-promise>
+                <item-promise value="5" description="其他承諾">無</item-promise>
+            </item>
+            <item value="5" description="技術檢測與分析服務業(CPC8676)—醫療器材的非臨床試驗檢驗的技術檢測及分析服務" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=8676">
+86761，成分和純度檢測和分析服務。
+86762，測試和分析物理性質的服務。
+86763，整合機電系統的測試和分析服務。
+86764，技術檢驗服務。
+86769，其他技術測試和分析服務（不在以上幾類的技術檢測及分析服務）
+                <item-promise value="1" description="跨境提供服務">沒有限制</item-promise>
+                <item-promise value="2" description="境外消費">沒有限制</item-promise>
+                <item-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣以獨資、合資、合夥及設立分公司等形式設立商業據點，提供非強制性檢驗的技術檢測與分析服務。</item-promise>
+                <item-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾。</item-promise>
+                <item-promise value="5" description="其他承諾">無</item-promise>
+            </item>
+            <item value="6" description="附帶於畜牧業之顧問服務業(非涉及家禽孵育及家畜禽配種者) (CPC88120**)" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=88120">
+                Services incidental to animal husbandry （附屬於畜牧業之服務，並沒有顧問的字眼）**意義不明
+                <item-promise value="1" description="跨境提供服務">沒有限制</item-promise>
+                <item-promise value="2" description="境外消費">沒有限制</item-promise>
+                <item-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣以獨資、合資、合夥及設立分公司等形式設立商業據點，提供附帶於畜牧業之顧問服務。</item-promise>
+                <item-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾。</item-promise>
+                <item-promise value="5" description="其他承諾">無</item-promise>
+            </item>
+            <item value="7" description="附帶於礦業之服務業(CPC883)" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=883">
+                Services incidental to mining（英文同樣沒有顧問字眼，但上面 F.在附件一被翻譯成顧問。**意義不明）
+                <item-promise value="1" description="跨境提供服務">沒有限制</item-promise>
+                <item-promise value="2" description="境外消費">沒有限制</item-promise>
+                <item-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣以獨資、合資、合夥及設立分公司等形式設立商業據點，提供附帶於礦業之服務。</item-promise>
+                <item-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾。</item-promise>
+                <item-promise value="5" description="其他承諾">無</item-promise>
+            </item>"
+            <item value="7" description="附帶於礦業之服務業(CPC5115)" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=5115">
+                5115，油跟瓦斯之外的礦業準備工作，挖隧道等。883補上了此項目的例外，故G.涵蓋了大部分的礦業探勘。                                      
+                  <item-promise value="1" description="跨境提供服務">沒有限制</item-promise>
+                <item-promise value="2" description="境外消費">沒有限制</item-promise>
+                <item-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣以獨資、合資、合夥及設立分公司等形式設立商業據點，提供附帶於礦業之服務。</item-promise>
+                <item-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾。</item-promise>
+                <item-promise value="5" description="其他承諾">無</item-promise>
+            </item>
+            <item value="8" description="與科學技術有關之顧問服務業—限地質、礦物及其他科學勘察服務(CPC86751)" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=86751">
+                地質學，地球物理，地球化學和其他科學的顧問服務。其他科學的顧問服務與礦藏位置， 石油，天然氣和地下水有關，透過對於地質，岩層，構造的研究。86751包括，分析地下勘查的結果，進行分析調查結果的服務，地球樣本和核心的研究，在開發和開採礦產資源上提供協助和建議。
+                <item-promise value="1" description="跨境提供服務">沒有限制</item-promise>
+                <item-promise value="2" description="境外消費">沒有限制</item-promise>
+                <item-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣以合資形式設立商業據點，且允許大陸服務提供者擁有多數股權，提供與科學技術有關之顧問服務。</item-promise>
+                <item-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾。</item-promise>
+                <item-promise value="5" description="其他承諾">無</item-promise>
+            </item>
+            <item value="9" description="設備維修服務業(CPC633)(海運船隻、航空器及其他運輸設備除外)" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=633">
+                63301，鞋子皮革包包袋子的修理。
+63302，家電產品的修理（冰箱洗碗機洗衣機烹煮用具等）。
+63303，鐘錶、珠寶的修理（修復）。
+63304，衣服與家用紡織品的修改。
+63309，其他未提到的家用品之修理（家具收音機電視機照明設備等家用品）。
+                <item-promise value="1" description="跨境提供服務">沒有限制</item-promise>
+                <item-promise value="2" description="境外消費">沒有限制</item-promise>
+                <item-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣以獨資、合資、合夥及設立分公司等形式設立商業據點，提供設備維修服務。</item-promise>
+                <item-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾。</item-promise>
+                <item-promise value="5" description="其他承諾">無</item-promise>
+            </item>
+             <item value="9" description="設備維修服務業(CPC8861-8866)(海運船隻、航空器及其他運輸設備除外)" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=886">
+                 8861，修復金屬製品（不包括機械及設備）的服務，採一次性收費或合約的方式。
+8862，機械與設備的維修服務，採一次性收費或合約的方式。
+8863，辦公、會計和計算機械，採一次性收費或合約的方式。
+8864，電氣機械及器材製造業的維修服務，採一次性收費或合約的方式。
+8865，收音機、電視、通信設備與儀器的維修，採一次性收費或合約的方式。
+8866，醫療儀器、精密和光學儀器，鐘錶維修 ，採一次性收費或合約的方式。
+                <item-promise value="1" description="跨境提供服務">沒有限制</item-promise>
+                <item-promise value="2" description="境外消費">沒有限制</item-promise>
+                <item-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣以獨資、合資、合夥及設立分公司等形式設立商業據點，提供設備維修服務。</item-promise>
+                <item-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾。</item-promise>
+                <item-promise value="5" description="其他承諾">無</item-promise>
+            </item>
+            <item value="10" description="建築物清理服務業(CPC874)" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=874">87401，住宅大樓消毒、除蟲滅鼠清除其他害蟲。
+87402，住宅大樓窗戶清潔。
+87403，住宅大樓清潔與維護，如掃地、打蠟、牆面清潔與家具拋光等。
+87409，其他未定義到的清潔服務，如焚化爐或煙囪等。 ［排除］51790定義的外部清潔，與88110當中的草坪維護
+                <item-promise value="1" description="跨境提供服務">技術上不可行。</item-promise>
+                <item-promise value="2" description="境外消費">沒有限制</item-promise>
+                <item-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣以獨資、合資、合夥及設立分公司等形式設立商業據點，提供建築物清理服務。</item-promise>
+                <item-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾。</item-promise>
+                <item-promise value="5" description="其他承諾">無</item-promise>
+            </item>
+            <item value="11" description="攝影服務業(CPC875)" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=875">87501，人像拍照服務（如照相館提供的服務）。
+87502，廣告和相關攝影服務（拍攝商品、時裝、機器、建築物等，供公共議題、廣告或書籍使用）。
+87503，動態攝影服務（婚禮攝影、畢業典禮、會議、時裝秀與體育賽事的拍攝）。
+87504，特殊攝影服務（空中、水中、醫學與生物、微型攝影）。
+87505，相片處理服務（負片處理、黑白處理、彩色印刷）。
+87506，跟電影與電視工業無關的影片（Motion picture）處理服務。
+87507，還原相片、洗照片和修片的服務。
+87509，其他攝影服務 （以上沒定義到的攝影服務）。
+                <item-promise value="1" description="跨境提供服務">沒有限制</item-promise>
+                <item-promise value="2" description="境外消費">沒有限制</item-promise>
+                <item-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣以獨資、合資、合夥及設立分公司等形式設立商業據點，提供攝影服務。</item-promise>
+                <item-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾。</item-promise>
+                <item-promise value="5" description="其他承諾">無</item-promise>
+            </item>
+            <item value="12" description="包裝服務業(CPC876)" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=876">
+                採一次性收費或合約方式的商品包裝服務。以自動化流程或人工方式包裝食物、藥品、生活用品、電腦硬體等商品。包裹包裝、禮物包裝都在此列。替商品上標籤、上印記（imprinting）亦屬於此類。［排除］325, 326, 74, 87907等。
+                <item-promise value="1" description="跨境提供服務">沒有限制</item-promise>
+                <item-promise value="2" description="境外消費">沒有限制</item-promise>
+                <item-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣以獨資、合資、合夥及設立分公司等形式設立商業據點，提供包裝服務。</item-promise>
+                <item-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾。</item-promise>
+                <item-promise value="5" description="其他承諾">無</item-promise>
+            </item>
+            <item value="13" description="印刷及其輔助服務業(CPC88442**)" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=88442">
+                Publishing and printing, on a fee or contract basis，翻成中文應該是採一次性收費或合約方式的出版和印刷，**意義不明。若參照88422對應到的ISIC Rev.3 code(s) 22，裡面的確有出版業。221 Publishing底下有四個子項目，包括書、報紙、期刊（journals）的出版。
+                <item-promise value="1" description="跨境提供服務">沒有限制</item-promise>
+                <item-promise value="2" description="境外消費">沒有限制</item-promise>
+                <item-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣設立合資企業，提供印刷及其輔助服務。大陸服務提供者限投資臺灣現有事業。大陸服務提供者總股權比例不超過50%。</item-promise>
+                <item-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾。</item-promise>
+                <item-promise value="5" description="其他承諾">無</item-promise>
+            </item>
+            <item value="14" description="展覽服務業(CPC87909**)" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=88442">
+                8790下，87901-87907沒提到的商業服務。包括商業經紀服務、房地產以外的估價服務（appraisal services）、秘書服務、展示及展覽服務等。對應到ISIC Rev.3 code(s) 7499。
+                <item-promise value="1" description="跨境提供服務">不予承諾，但與「海峽兩岸經濟合作架構協議」附件四的開放承諾有關者除外。</item-promise>
+                <item-promise value="2" description="境外消費">沒有限制</item-promise>
+                <item-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣以獨資、合資、合夥及設立分公司等形式設立商業據點，與臺灣會展產業的企業或公會、商會、協會等團體合辦展覽。</item-promise>
+                <item-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾。</item-promise>
+                <item-promise value="5" description="其他承諾">無</item-promise>
+            </item>
+            <item value="15" description="複製服務業(CPC87904)" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=87904">
+                藍圖（blue printing）、複印、油印（mimeographing）等等的複製服務。
+                <item-promise value="1" description="跨境提供服務">沒有限制</item-promise>
+                <item-promise value="2" description="境外消費">沒有限制</item-promise>
+                <item-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣以獨資、合資、合夥及設立分公司等形式設立商業據點，提供複製服務。</item-promise>
+                <item-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾。</item-promise>
+                <item-promise value="5" description="其他承諾">無</item-promise>
+            </item>
+            <item value="16" description="翻譯及傳譯服務業(CPC87905)" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=87905">
+                翻譯與口譯服務。
+                <item-promise value="1" description="跨境提供服務">沒有限制</item-promise>
+                <item-promise value="2" description="境外消費">沒有限制</item-promise>
+                <item-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣以獨資、合資、合夥及設立分公司等形式設立商業據點，提供翻譯及傳譯服務。</item-promise>
+                <item-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾。</item-promise>
+                <item-promise value="5" description="其他承諾">無</item-promise>
+            </item>
+            <item value="17" description="郵寄名單編輯服務業(CPC87906**)" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=87906">郵件名單匯整與寄送服務。內容有從電話簿或其他來源取得姓名與住址，將其編成名單並販售。以及透過郵寄等方式來傳送廣告傳單之類的物品。
+                <item-promise value="1" description="跨境提供服務">沒有限制</item-promise>
+                <item-promise value="2" description="境外消費">沒有限制</item-promise>
+                <item-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣以獨資、合資、合夥及設立分公司等形式設立商業據點，提供郵寄名單編輯服務。</item-promise>
+                <item-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾。</item-promise>
+                <item-promise value="5" description="其他承諾">無</item-promise>
+            </item>
+            <cat-promise value="1" description="跨境提供服務">沒有限制</cat-promise>
+            <cat-promise value="2" description="境外消費">沒有限制</cat-promise>
+            <cat-promise value="3" description="商業據點呈現">-</cat-promise>
+            <cat-promise value="4" description="自然人呈現">-</cat-promise>
+            <cat-promise value="5" description="其他承諾">-</cat-promise>
+        </cat-second>
+        
+    </cat-first>
+    <cat-first value="2" description="通訊服務">
+        <cat-second value="1" description="快遞服務陸地運送部分(現行由臺灣郵政主管部門依規定保留之服務除外)">
+            <item value="1" description="快遞服務陸地運送部分(現行由臺灣郵政主管部門依規定保留之服務除外)">
+            </item>
+            <cat-promise value="1" description="跨境提供服務">沒有限制</cat-promise>
+            <cat-promise value="2" description="境外消費">沒有限制</cat-promise>
+            <cat-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣以獨資、合資、
+合夥及設立分公司等形式設立商業據點，提
+供包裹等物品的快遞服務。</cat-promise>
+            <cat-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾。</cat-promise>
+            <cat-promise value="5" description="其他承諾">無</cat-promise>  
+        </cat-second>
+        <cat-second value="2" description="電信服務第二類電信事業特殊業務">            
+            <item value="1" description="存轉網路服務"></item>
+            <item value="2" description="存取網路服務"></item>
+            <item value="3" description="數據交換通信服務"></item>                
+            <cat-promise value="1" description="跨境提供服務">沒有限制</cat-promise>
+            <cat-promise value="2" description="境外消費">沒有限制</cat-promise>
+            <cat-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣投資左列業務。大陸服務提供者須為在海外或大陸上市
+之電信業者；大陸服務提供者總持股比例不超過50%，不具控制力。</cat-promise>
+            <cat-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾。</cat-promise>
+            <cat-promise value="5" description="其他承諾">無</cat-promise> 
+        </cat-second>
+        <cat-second value="3" description="視聽服務">
+            <item value="1" description="電影或錄影帶 之行銷服務業—進口大陸電影片(CPC96113)" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=96113">
+                電影及錄影帶的散佈服務。 將電影或錄影帶出售或出租到其他行業，做為公共娛樂，電視廣播之用，或（再度）出售或出租給他人。
+                <item-promise value="1" description="跨境提供服務">除與「其他承諾」有關者外，不予承諾。</item-promise>
+                <item-promise value="2" description="境外消費">沒有限制</item-promise>
+                <item-promise value="3" description="商業據點呈現">除與「其他承諾」有關者外，不予承諾。</item-promise>
+                <item-promise value="4" description="自然人呈現">除與「其他承諾」有關者外，不予承諾。</item-promise>
+                <item-promise value="5" description="其他承諾">
+根據大陸有關規
+定設立的製片單
+位所拍攝、符合臺
+灣相關規定所定
+義之大陸電影
+片，經臺灣主管機
+關審查通過後，每
+年以
+15
+部為限，
+可在臺灣商業發
+行映演，並應符合
+大陸電影片進入
+臺灣發行映演之
+相關規定。
+                </item-promise> 
+            </item>
+        </cat-second>       
+    </cat-first>
+    <cat-first value="3" description="營造及相關工程服務">
+        <cat-second value="1" description="營造及相關工程服務"> 
+            <item value="1" description="建築物的一般建築工作(CPC512)" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=512">
+                1.一到兩戶的住宅 5121。
+2.多戶的住宅大廈 5122。
+3.倉庫和工業建築，例如製造業與輕工業的建築物［排除］51360提到的採礦業相關建築 5123。
+4.商業建築，例如辦公室、銀行、室內停車場、加油站、購物中心、空運鐵路客運轉運站 5124。
+5.公共娛樂場所建築，例如電影院、劇場、音樂廳、舞廳、夜店 5125。
+6飯店、餐廳與類似建築物，例如hotels, motels, 旅社, hostels, 餐廳與類似的建築物 5126。
+7.教育建築，例如各級學校、圖書館、文物館、博物館 5127。
+8.健康建築，例如醫院與療養院 5128。
+9其他建築物 ，未分類到的非住宅，例如宗教場所與監獄 5129。</item>
+            <item value="2" description="土木工程的一般建築工作(CPC513)" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=513">
+                1.公路（高速公路之外）、街道、鐵路、機場跑道 5131。
+2.橋墩、高速公路、隧道及地鐵 5132。
+3.水道、港口、水壩、水利工程等 5133。
+4.長距離的管線、通信和電力線路(電纜) 5134。
+5.當地管道和電纜(附屬工程) 5135。長距離的瓦斯、水管線路、汙水管道、當地電力與通訊傳輸線路（電纜），附屬工程指的是具有天線的傳輸塔（transmission towers，如基地台、高壓電塔）、變電站等。
+6.採礦和製造業的建築物 5136：採礦與未分類的製造業建築物。
+7.體育場館和娛樂場所 5137：各式運動的戶外與室內場地。
+8.未分類到的工程建築 5139：如礦場。</item>
+            <item value="3" description="安裝和組裝工作(CPC514)" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=514">組裝、搭蓋組合式建築物。</item>
+            <item value="3" description="安裝和組裝工作(CPC516)" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=516">
+                1.加熱、通風與空調工程 5161。
+2.供水管道和排水管鋪設工程 5162：冷熱水管線系統，包括灑水裝置。排水（不含汙水處理與雨水）管路與化糞池的安裝。
+3.瓦斯配件工程 5163：天然瓦斯與 dry heating systems，不含電熱部分的工程。
+
+4.電力工程（5164）：
+
+    a.大樓的電力接線網絡或配件。
+    b.火警裝置、消防與逃生設備。
+    c.防盜系統。
+    d.住宅用天線、避雷針。
+    e.未分類到的電力工程：公路照明、電力信號工程與聲響裝置（行人號誌？）等。
+
+
+5.絕緣工程(電氣、水、熱、聲音) 5165：電線防水、防火，建築外牆的防水防火材質等工程。［排除］屋頂防水工程。
+6.柵欄和圍欄建設工程 5166。
+7.其他安裝工作 5169。升降梯、手扶梯、電動行人通道、逃生梯以及未分類到的特殊工程（包含非建築物基本結構的一部分，如百葉窗與遮雨棚的安裝）</item>
+            <item value="4" description="建築物竣工和最後修整工作(CPC517)" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=517">1.玻璃和門窗安裝工作 5171：包括建築物的玻璃製品、鏡子等。
+2.水泥工程 5172。
+3.油漆工程 5173。
+4.地面和牆面貼磚工程 5174。
+5.其他地面鋪設，牆面塗料及貼壁紙工程 5175。
+6.木材和金屬的細工與木工工程：木工、於建案固定木製模板、安裝櫥櫃 5176。
+7.室內裝修裝飾工程 5177：鋪磨石（terrazzo），以及室內大理石、花崗岩與石板（slate）的工程。［排除］51560，室外的石頭相關工程。
+8.裝飾品裝潢工程（Ornamentation fitting work）5178：板金（sheet metal ）或其他建築上的金屬工程［排除］51530，屋頂與防水。
+9.其他建築物竣工和修整工程 5179。</item>
+            <item value="5" description="其他 (CPC511)" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=511">建地的預備工程:
+1.工地勘測工程 5111。
+2.拆遷工程 5112。
+3.地面平整和清理工程 5113。
+4.挖土和運土工程 5114。
+5.採礦現場準備工程：排除石油與天然氣探勘的相關開發工程 5115。
+6.鷹架架設與拆解工程 5116。</item>
+            <item value="5" description="其他 (CPC515)" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=515">1.地基工程，包含打樁 5151。
+2.水井鑽探工程 5152。
+3.屋頂和防水工程 5153。
+4.混凝土工程 5154。
+5.鋼筋的彎曲和豎直 (包含焊接)工程 5155。
+6.砌磚工程 5156。
+7.其他特種行業建設工程 5159：如墳墓的挖掘（grave excavation）、房屋搬移（house moving）。</item>
+            <item value="5" description="其他 (CPC518)" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=518">出租建造或拆除建築物時的器材以及操作員。［排除］83107，沒提供操作員，只出租建造或拆除建築物所需器材。</item>
+            <cat-promise value="1" description="跨境提供服務">技術上不可行。</cat-promise>
+            <cat-promise value="2" description="境外消費">沒有限制</cat-promise>
+            <cat-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣以合資形式設
+立商業據點，提供營造及相關工程服務。大陸服務提供者總持股比例不超過12%，不具控制力。</cat-promise>
+            <cat-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾。</cat-promise>
+            <cat-promise value="5" description="其他承諾">無</cat-promise>
+        </cat-second>
+    </cat-first>
+    <cat-first value="4" description="配銷服務">
+        <cat-second value="1" description="批發交易服務業">
+            <item value="1" description="CPC622,武 器警械及軍事 用品、農產品市 場交易法所稱 之農產品批發 市場除外" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=622">
+                1.農業原料與活的動物（live animals）之批發貿易服務 (6221)
+a.穀物、油籽、含油果實、種子、動物飼料批發貿易 62211
+b.花卉植物批發貿易 62212
+c.未加工的菸草批發貿易 62213
+d.活的動物之相關批發貿易。詳細列在CPC021，指的是活的牛羊馬驢騾、豬與活禽等 62214
+e.皮革或毛皮批發貿易 62215
+f.其他未分類的農業原料批發貿易：例如用於紡織品的生菜或動物材料 62219
+
+2.食品飲料和菸草的批發貿易服務 (6222)
+a.水果與蔬菜批發貿易 62221
+b.乾貨、雞蛋、食用油、食用脂肪批發貿易 62222
+c.肉、家禽、野味（game）批發貿易：包括相關肉類製品 62223
+d.漁業產品批發貿易 62224
+e.糖、糖與麵粉製糕餅、麵包批發貿易 62225
+f.飲料批發貿易 62226
+g.咖啡、茶類、可樂雪碧批發貿易 62227
+h.菸品批發貿易 62228
+i.其他未分類的食品批發貿易：鹽、研磨過的穀物製品、麵條與粉狀的產品（應該就是指杏仁粉等）62229
+
+3.紡織品服裝和鞋類批發業服務 (6223)
+a.紡織品批發貿易 62231
+b.家用亞麻製品批發貿易 62232
+c.服飾批發貿易，不含毛皮製衣物 62233
+d.毛皮飾品與毛皮製衣物批發貿易 62234
+e.鞋類批發貿易 62235
+f.其他未分類的衣物批發貿易：帽子、頭部配件、傘、拐杖、皮帶等 62236
+
+4.家用電器物品和設備批發服務 (6224)
+a.家具批發貿易 62241
+b.家庭用品批發貿易：電冰箱、洗碗機、洗烘衣機、烹煮用具、吸塵器與其他小家電 62242
+c.刀具、家用金屬製品、照明設備批發貿易 62243
+d.收音機、電視機、樂器、樂譜，影音產品（audio and video records）與錄音帶的批發貿易 62244
+e.玻璃製品、瓷器、陶器批發貿易 62245
+f.編織品、軟木製品、木桶木盆、其他木製品批發貿易 62246：此處的木桶攻的器具（cooper's ware），我將它翻為木桶木盆。
+g.壁紙、其他用來拼貼地板的材質批發貿易 62247
+h.其他未分類的家用品 62249：手工具與其他加工的金屬製品（見4292-4299）的批發貿易
+
+5.藥品和醫療用品化妝品批發服務貿易 (6225)
+a.醫學用品與藥品批發貿易 62251（零售服務業寫藥局及藥房除外，但這邊可以批發阿。632提的也是藥品零售）
+b.外科與矯正用儀器與裝置之批發貿易 62252
+c.香水、美妝、肥皂批發貿易：包括盥洗用品與洗滌劑 62253
+
+6.雜項消費品批發業服務 (6226)
+a.紙、紙板與相關產品之批發貿易 62261
+b.書、雜誌、報紙、文具批發貿易 62262
+c.攝影產品與光學產品批發貿易 62263：光學產品指的是顯微鏡、望遠鏡等
+d.遊戲與玩偶玩具批發貿易 62264：包括電玩（video games）
+e.鐘表珠寶批發貿易 62265
+f.體育用品（包括自行車）批發貿易 62266：例如滑雪、水上運動、釣魚裝備、運動用品與裝備、戶外運動（包括自行車）的用品與裝備
+g.皮革製品與旅行用品批發貿易 62267：行李箱、手提袋、馬具及其他皮革製品
+h.清潔用品批發貿易 62268：清潔用品與打蠟製品
+i.其他未分類的雜項消費品批發貿易 62269：未分類到的各式各樣消費品，詳情需看CPC 3896, 3899
+
+7.農業之外的中間產品（intermediate products）和其他農產品的批發貿易、垃圾廢棄物與回收物之批發貿易 (6227)
+a.固態、液態、氣體燃料與相關產品之批發貿易 62271：例如煤、石油原油、天然氣、煤氣與相關產品。
+b.金屬礦產、初級型態的基本金屬批發貿易 62272
+c.原木與初級加工的木材產品批發貿易：包括針葉或非針葉木的原木 62273
+d.油漆與各種漆的批發貿易 62274：paints, varnishes and lacquers and related products
+e.建材配件、燈具與平板玻璃的批發貿易 62275：建材配件為用於建築的砂石、結構性的非耐火黏土製品（structural non-refractory clay products）、水泥、石灰、灰泥（plaster）等。
+f.基本工業化學製品、肥料、合成樹脂、塑膠材料之批發貿易 62276
+g.紡織纖維的批發貿易 62277：包括天然纖維、用於紡織的人造紡織短纖維（man-made textile staple fibres）以及其他的人造纖維。
+h.垃圾廢棄物與回收物之批發貿易 62278
+i.其他未分類的中間產品批發貿易 62279：例如未分類的寶石、化工產品，橡膠輪胎、管子與其他橡膠製品，塑膠製的半成品、非金屬礦產的產品
+
+8.機械、設備與耗材之批發貿易 (6228)
+a.農業機械與設備之批發貿易（包含牽引機）62281
+b.汽機車與自行車之外的運輸裝置之批發貿易 62282：例如，遊艇與競技用途以外的商業用船隻、鐵路及電車系統（tramway）的車頭（locomotives）與車輛本體（rolling stock）、飛機、太空船與航空設備等
+c.採礦、開發與土木工程的機器設備之批發貿易 62283
+d.辦公室內的機器設備之批發貿易（包含辦公室家具）62284：例如傳真機、影印機、電腦等
+e.紡織工業的機器設備之批發貿易 62285：例如：做為準備用、紡織、編織、針織的機器，縫紉機
+f.木頭與金屬工業的機器設備之批發貿易 62286：［排除］62281的林業用機器
+g.機器設備相關耗材的批發貿易 62287：跟6228所提到機器設備有關的耗材，例如機器的一部份、工業用耗材等
+h.其他用於工商業的機器設備之批發貿易 62289：通用的機器，例如引擎、渦輪機 、傳動與驅動元件、燃燒器（burners）。未分類做為特殊用途的機器，例如食品飲料菸品製程所用的機器、電機、測量確認測試導航用的儀器，以及未分類的耗材。
+                
+                <item-promise value="1" description="跨境提供服務">沒有限制</item-promise>
+                <item-promise value="2" description="境外消費">沒有限制</item-promise>
+                <item-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣以獨資、合資、合夥及設立分公司等形式設立商業據點，提
+供批發交易服務。</item-promise>
+                <item-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾。</item-promise>
+                <item-promise value="5" description="其他承諾">無</item-promise> 
+            </item>
+        </cat-second>
+        <cat-second value="2" description="零售服務業">
+            <item value="1" description="CPC631,武器警械、軍事用品、藥局及藥房除外" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=631">
+                零售銷售食品、飲料和菸草
+1.蔬果零售：新鮮、風乾、冷凍或罐頭蔬果與堅果之零售 63101
+2.乳製品與雞蛋零售 63102
+3.肉類（包括家禽）以及肉製品零售：包括野味 63103
+4.魚與海產的零售 63104
+5.麵包與麵粉製糕餅的零售 63105
+6.糖製糕餅的零售 63106：例如用糖將水果或堅果做成的果醬（preserve）
+7.非當場飲用的飲料零售 63107：包括酒精非酒精飲料［排除］當場飲用的飲料
+8.菸品零售 63108
+9.其他未分類的零售 63109：例如米、食用油與脂肪、鹽、咖啡、茶、糖、可可亞與香料、麵條與其他粉狀產品等物品。
+            </item>
+            <item value="1" description="CPC632,武器警械、軍事用品、藥局及藥房 除外" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=632">
+1.零售藥品和醫療用品化妝品 (6321)
+a. 藥品、醫療與矯正器具零售 63211
+b. 香水、美妝品與香皂零售 63212
+
+2.零售紡織品服裝鞋類和皮革製品 (6322)
+a. 零售紡織品 63221：零售衣服之外的紡織品，例如羊毛，紗，絲等紡織用品 
+b. 衣服、毛皮製品，飾品零售 63222
+c. 鞋子零售 63223
+d. 零售皮革製品與旅行用品 63224：行李袋、馬具及其他皮革製品、旅行用具（如行李箱等）［排除］皮鞋
+
+3.零售家用電氣用品及設備　(6323)
+a.家具零售 63231
+b.家庭用品零售：電冰箱、洗碗機、洗烘衣機、烹煮用具、吸塵器與其他小家電。63232
+c.零售餐具、刀具、陶器、玻璃器皿、瓷器 63233
+d.零售收音機、電視機、樂器、樂譜及錄音帶：包括影音產品（audio and video records）63234
+e.零售照明用品與設備 63235
+f.零售家用紡織品 63236：例如窗簾 
+g.零售木製品、軟木製品與籐條柳條編織品（wickerwork goods）63237
+h.零售其他未分類的家用電氣用品及設備 63239：多項加工的金屬製品（domestic fabricated metal products），見4292-4299。［排除］63241裡的手工具與建築五金，如門鎖、螺絲、釘子；但63241開放於次一項目。
+
+4.零售五金、油漆保護漆生漆、玻璃、建材、手工材料和設備（6324）
+a.零售五金 63241：手工具與建築五金，如門鎖、螺絲、釘子等。
+b.零售油漆、保護漆（varnishes ）、生漆（lacquers）63242
+c.零售玻璃：建築用玻璃 63243
+d.零售手工材料和設備 63244：木頭、紙類、塑膠類、橡膠或玻璃製的各式產品，以及某些化學產品（例如顏料）。
+e.零售其他未分類的建材 63245：例如木材（lumber）、結構性金屬製品（structural metal products）與非金屬的結構性產品。詳請參考15（砂石泥土），311~313（木製產品），373-379（與石膏石灰水泥有關的產品），421（提到結構性金屬產品及其零件，有鋼/鐵做的橋樑、塔、桅杆，鋼/鐵/鋁製的門、窗及其框架，鋼/鐵/鋁製的盤、杆、管）
+
+5.零售銷售辦公設備、圖書、報紙和文具及攝影器材、光學與精密設備 (6325)
+a.零售辦公耗材與設備 63251：例如紙與紙版製品，辦公與會計用機器，辦公室家具
+b.零售電腦與非客製化軟體 63252：還有電腦週邊用品
+c.零售書本，報紙，雜誌，文具 63253
+d.零售攝影產品與光學與精密設備 63254：攝影產品包括攝影器材、底片。光學產品指的是顯微鏡、望遠鏡等
+
+6.其他專門零售銷售非食品類產品（6329）
+a.零售清潔用品、壁紙、地板拼貼（floor coverings）63291
+b.零售鐘錶珠寶 63292
+c.零售運動用品（包括自行車）63293：例如滑雪、水上運動、釣魚裝備、運動用品與裝備、戶外運動（包括自行車）的用品與裝備
+d.零售遊戲與玩偶玩具 63294：包括電玩（video games）
+e.零售花卉、植物、種子、肥料與寵物 63295：包括用於飼養動物的製劑（preparations of a kind used in animal feeding）
+f.零售紀念品 63296：例如賀卡、小型藝品與其他禮物
+g.零售燃油、罐裝瓦斯、煤與木材 63297
+h.專門零售其他未分類的非食品類產品 63299：未分類到的連結車（trailers）與連結車後面掛的那一段（semi-trailers）、電子機器與設備以及交通運輸裝置
+            </item>
+            <item value="1" description="CPC6111,武器警械、軍事用品、藥局及藥房 除外" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=6111">機動車輛（motor vehicles）銷售
+a.機動車輛批發貿易：批發或代理汽車、巴士與大客車、貨車卡車、連結車與連結車後面掛的那一段
+b.機動車輛零售：載人的機動車輛，包括特殊用途的機動車輛，包括救護車等  
+            </item>
+            <item value="2" description="CPC6113,武器警械、軍事用品、藥局及藥房 除外" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=6113">
+                銷售零部件及汽車配件：批發，代理與零售機動車輛的全新或二手零件
+            </item>
+            <item value="3" description="CPC6121,武器警械、軍事用品、藥局及藥房 除外" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=6121">銷售摩托車、雪地車輛，及其相關零部件與配件
+
+            </item>
+            <cat-promise value="1" description="跨境提供服務">沒有限制</cat-promise>
+            <cat-promise value="2" description="境外消費">沒有限制</cat-promise>
+            <cat-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣以獨資、合資、合夥及設立分公司等形式設立商業據點，提供零售服務。</cat-promise>
+            <cat-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾。</cat-promise>
+            <cat-promise value="5" description="其他承諾">無</cat-promise> 
+        </cat-second>
+        <cat-second value="3" description="經銷">
+            <item value="1" description="CPC8929" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=8929">其他非金融類的無形資產
+            </item>
+            <cat-promise value="1" description="跨境提供服務">沒有限制</cat-promise>
+            <cat-promise value="2" description="境外消費">沒有限制</cat-promise>
+            <cat-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣以獨資、合資、合夥及設立分公司等形式設立商業據點，提供經銷服務。</cat-promise>
+            <cat-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾。</cat-promise>
+            <cat-promise value="5" description="其他承諾">無</cat-promise> 
+        </cat-second>
+    </cat-first>
+    <cat-first value="5" description="環境服務">
+        <cat-second value="1" description="環境服務">
+            <item value="1" description="污水處理服務 業(CPC9401)" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=9401">汙水處理服務：污水排出、處理服務。使用相關器具進行稀釋、過濾、沉澱、化學沉澱等步驟。［排除］18000，水的收集、純化、配送。51330，建造、修理、更換下水道的工程</item>
+            <item value="2" description="廢棄物處理服 務業(CPC9402)" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=9402">垃圾處置服務：垃圾收集與處理之服務。收集家用、企業、商業場所的垃圾，運送服務，用焚化爐或其他方式處理垃圾的服務。包括垃圾減量的服務。</item>
+            <item value="3" description="廢氣清理服務業(CPC9404)" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=9404">針對移動或固定污染源（大部分由燃燒石化燃料引起）的空氣污染，進行排放監測與控制服務。濃度監測、針對環境空氣污染的控制與減量服務，特別指的是市區。</item>
+            <item value="4" description="噪音與振動防制服務業(CPC9405)" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=9405">噪音污染的監測、控制與減輕的服務。例如減輕市區交通相關噪音的服務（traffic-related noise abatement services in urban areas）。</item>
+            <item value="5" description="土壤及地下水 污染整治服務業(CPC9409**)" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=9409">其他未定義到的環保服務：例如酸雨監測、控制損害評估服務</item>
+            <cat-promise value="1" description="跨境提供服務">技術上不可行</cat-promise>
+            <cat-promise value="2" description="境外消費">沒有限制</cat-promise>
+            <cat-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣以獨資、合資、 合夥及設立分公司等形式設立商業據點，提供環境服務</cat-promise>
+            <cat-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾</cat-promise>
+            <cat-promise value="5" description="其他承諾">無</cat-promise>
+        </cat-second>
+    </cat-first>
+    <cat-first value="6" description="健康與社會服務">
+        <cat-second value="1" description="醫院服務業">
+            <item value="1" description="醫院服務業 (CPC9311)" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=9311">根據醫師的指示，主要對住院病人提供的服務，著眼於治療、讓病人能重新活動與（或）維持病人的健康狀態。醫院服務，包括醫療與輔助醫療服務（medical and paramedical services），護理服務，實驗室與科技的服務，如放射科醫學與麻醉醫學（anaesthesiological）。［排除］93121醫院門診，93123牙醫，93192救護服務。
+                <item-promise value="1" description="跨境提供服務">沒有限制</item-promise>
+                <item-promise value="2" description="境外消費">沒有限制</item-promise>
+                <item-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣以合資形式捐
+助設立非營利的醫療財團法人醫院，提供醫院服務。此外：
+(i)未持有臺灣方面身分證明文件的自然人擔任董事會董事合計不得超過全體董事的三分之一；
+(ii)全體董事的三分之一以上必須具有臺灣醫事人員資格。</item-promise>
+                <item-promise value="4" description="自然人呈現">除模式(3)所列內容外，不予承諾</item-promise>
+                <item-promise value="5" description="其他承諾">無</item-promise> 
+                
+            </item>
+            <item value="1" description="無操作員醫療設備之出租或 租賃服務業">
+                <item-promise value="1" description="跨境提供服務">沒有限制</item-promise>
+                <item-promise value="2" description="境外消費">沒有限制</item-promise>
+                <item-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣以獨資、合資、
+合夥及設立分公司等形式設立商業據點，提供無操作員醫療設備租賃服務</item-promise>
+                <item-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾</item-promise>
+                <item-promise value="5" description="其他承諾">無</item-promise> 
+                
+            </item>
+        </cat-second>
+        <cat-second value="2" description="社會服務業">
+            <item value="1" description="老人及身心障礙者福利機構">
+                <item-promise value="1" description="跨境提供服務">技術上不可行</item-promise>
+                <item-promise value="2" description="境外消費">沒有限制</item-promise>
+                <item-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣以合夥形式設
+立小型老人及身心障礙福利機構。大陸服務提供者出資比例須低於50%，不具控制力</item-promise>
+                <item-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾</item-promise>
+                <item-promise value="5" description="其他承諾">無</item-promise> 
+                
+            </item>
+        </cat-second>
+    </cat-first>
+    <cat-first value="7" description="觀光及旅遊服務">
+        <cat-second value="1" description="旅館及餐廳">
+            <item value="1" description="旅館(限於觀光 旅館)(CPC64110**)" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=64110">意指通常飯店會提供的住宿與相關服務。相關服務包括通常會提供的服務，以及包含在住宿費用的服務，如客房服務，櫃台服務，郵件服務和行李員服務。
+飯店一般還會推出其他服務，如停車場，食物，飲料，娛樂，游泳池，宴會，會議及會議設施。度假飯店則提供更多的休閒設施。若需另外計費的服務則由飯店定義。
+飯店提供的服務通常比其他汽車旅館等住宿場所更為完整。
+                <item-promise value="1" description="跨境提供服務">沒有限制</item-promise>
+                <item-promise value="2" description="境外消費">沒有限制</item-promise>
+                <item-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣以獨資、合資、
+合夥及設立分公司等形式設立商業據點，提供觀光旅館服務</item-promise>
+                <item-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾</item-promise>
+                <item-promise value="5" description="其他承諾">無</item-promise> 
+                
+            </item>
+            <item value="2" description="提供食物服務 (CPC642) (包括 提供相關飲料 服務)" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=642">1. 以完整的餐廳服務供應餐點 64210：在餐廳、cafe與類似的餐飲設施提供食物、飲料，有專屬的服務生提供服務（有的有演奏表演）。餐廳、酒吧、夜店與類似設施、飯店或住宿地點內的餐廳以及交通設施（火車、船）上的服務也屬此類。［排除］只供應飲料的地方。
+2. 自助式的餐點供應服務 64220：例如自助式的餐廳（cafeterias），也就是自助餐。
+3. 外燴服務  64230
+4. 其他的食物供應服務 64290：例如小吃攤（refreshment stands）
+                <item-promise value="1" description="跨境提供服務">沒有限制</item-promise>
+                <item-promise value="2" description="境外消費">沒有限制</item-promise>
+                <item-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣以獨資、合資、
+合夥及設立分公司等形式設立商業據點，提供餐館服務</item-promise>
+                <item-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾</item-promise>
+                <item-promise value="5" description="其他承諾">無</item-promise> 
+                
+            </item>
+        </cat-second>
+        <cat-second value="2" description="旅行社及旅遊 服務業">
+            <item value="1" description="旅行社及旅遊 服務業(CPC7471)" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=7471">旅行社和旅遊經營服務
+                <item-promise value="1" description="跨境提供服務">沒有限制</item-promise>
+                <item-promise value="2" description="境外消費">沒有限制</item-promise>
+                <item-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣以獨資、合資、
+合夥及設立分公司等形式設立商業據點，提供旅行社及旅遊服務。大陸服務提供者在臺灣設立的商業據點總計以3家為限。經營範圍限居住於臺灣的自然人在臺灣的旅遊活
+動</item-promise>
+                <item-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾</item-promise>
+                <item-promise value="5" description="其他承諾">無</item-promise> 
+                
+            </item>
+        </cat-second>
+    </cat-first>
+    <cat-first value="8" description="娛樂、文化及運動服務(視聽服務除外)">
+        <cat-second value="1" description="娛樂服務業">
+            <item value="1" description="演出場所經營">
+                <item-promise value="1" description="跨境提供服務">沒有限制</item-promise>
+                <item-promise value="2" description="境外消費">沒有限制</item-promise>
+                <item-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣以合資、合夥形
+式設立劇場、音樂廳演出場所的經營單位。大陸服務提供者總持股比例須低於50%，不具控制力</item-promise>
+                <item-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾</item-promise>
+                <item-promise value="5" description="其他承諾">無</item-promise> 
+                
+            </item>
+        </cat-second>
+        <cat-second value="2" description="運動及其他娛樂服務業">
+            <item value="1" description="運動場館營運 (CPC96413)" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=96413">執行任何種類體育賽事的場地營運服務
+                <item-promise value="1" description="跨境提供服務">沒有限制</item-promise>
+                <item-promise value="2" description="境外消費">沒有限制</item-promise>
+                <item-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣以獨資、合資、
+合夥及設立分公司等形式設立商業據點，提供運動場館營運服務(高爾夫球場除外)</item-promise>
+                <item-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾</item-promise>
+                <item-promise value="5" description="其他承諾">無</item-promise> 
+                
+            </item>
+        </cat-second>
+        <cat-second value="3" description="其他">
+            <item value="1" description="遊樂園及 主題樂園(非屬 森林遊樂區者)">
+                <item-promise value="1" description="跨境提供服務">沒有限制</item-promise>
+                <item-promise value="2" description="境外消費">沒有限制</item-promise>
+                <item-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣以獨資、合資、
+合夥及設立分公司等形式設立商業據點，提供遊樂園及主題樂園服務</item-promise>
+                <item-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾</item-promise>
+                <item-promise value="5" description="其他承諾">無</item-promise> 
+                
+            </item>
+        </cat-second>
+    </cat-first>
+    <cat-first value="9" description="運輸服務">
+        <cat-second value="1" description="海運服務">
+            <item value="1" description="海運輔助性服 務業(CPC745) - 港埠業" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=745">1.港口與水運營運服務（包括貨物處理）74510：港口業務服務，對象為各式碼頭船塢（wharves, docks, piers, quays）和其他海運碼頭相關設施。連結海運的客運碼頭服務亦屬於此類，採一次性收費或合約方式。此類還包括於河渠與內陸水道操作與維護相關船隻。［排除］74110裝卸（Stevedoring）服務、裝箱貨運服務（containerized freight）、742港口倉儲服務、74520
+
+2.引航與停泊服務 74520
+
+3.導航設備服務 74530：提供燈塔、（能發光導引方向的）燈船（lightships and light vessels）、浮標、通道標記與導航的輔助工具
+
+4.打撈船與打撈服務 74540：［排除］72140拖引受困船隻，91260救生艇、海上消防船等
+
+5.其他水運的輔助服務 74590：採一次性收費或合約方式替船隻進行清潔、殺菌、除害蟲等服務。未定義但與船舶業務相關的海上運輸輔助服務，以及與船舶業務無關的服務，例如破冰、船舶登記、船舶停航（vessel laying-up）與保管服務。［排除］91260救生艇、海上消防船服務。</item>
+            <item value="2" description="其他水上運輸輔助業(船舶貨物裝 卸承攬業、拖駁 船業)"></item>
+            <item value="3" description="貨櫃集散站經 營業"></item>
+            <item value="4" description="船舶理貨業"></item>
+            <item value="5" description="船舶小修業"></item>
+            <cat-promise value="1" description="跨境提供服務">沒有限制</cat-promise> 
+            <cat-promise value="2" description="境外消費">沒有限制</cat-promise> 
+            <cat-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣以合資形式設
+立商業據點，提供海運輔助性服務2。大陸服務提供者總持股比例須低於50%
+</cat-promise> 
+            <cat-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾</cat-promise> 
+            <cat-promise value="5" description="其他承諾">無</cat-promise>    
+        </cat-second>
+        <cat-second value="2" description="空運服務">
+            <item value="1" description="空運服務之銷售及行銷">適用世界貿易組織「服務貿易總協定『空運服務業附則』」的定義。
+                <item-promise value="1" description="跨境提供服務">沒有限制</item-promise>
+                <item-promise value="2" description="境外消費">沒有限制</item-promise>
+                <item-promise value="3" description="商業據點呈現">允許經雙方民航主管機關核准營運之大陸
+民用航空運輸業者，在臺灣設立商業據點銷售及行銷其空運服務</item-promise>
+                <item-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾</item-promise>
+                <item-promise value="5" description="其他承諾">無</item-promise> 
+            </item>
+            <item value="2" description="航空貨物集散站 經營業">
+                <item-promise value="1" description="跨境提供服務">沒有限制</item-promise>
+                <item-promise value="2" description="境外消費">沒有限制</item-promise>
+                <item-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣以合資形式設立商業據點，提供航空貨物集散站經營服務。大陸
+服務提供者總持股比例不超過10%</item-promise>
+                <item-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾</item-promise>
+                <item-promise value="5" description="其他承諾">無</item-promise> 
+            </item>
+            
+        </cat-second>
+        <cat-second value="3" description="公路運輸服務">
+            <item value="1" description="旅客運輸(限於 小客車租賃業)">
+                <item-promise value="1" description="跨境提供服務">技術上不可行</item-promise>
+                <item-promise value="2" description="境外消費">沒有限制</item-promise>
+                <item-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣以獨資、合資、
+合夥及設立分公司等形式設立商業據點，提供旅客運輸服務</item-promise>
+                <item-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾</item-promise>
+                <item-promise value="5" description="其他承諾">無</item-promise> 
+            </item>
+            <item value="2" description="貨物運輸">
+                <item-promise value="1" description="跨境提供服務">技術上不可行</item-promise>
+                <item-promise value="2" description="境外消費">沒有限制</item-promise>
+                <item-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣以獨資、合資、
+合夥及設立分公司等形式設立商業據點，提供貨物運輸服務</item-promise>
+                <item-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾</item-promise>
+                <item-promise value="5" description="其他承諾">無</item-promise> 
+            </item>
+            <item value="3" description="公路運輸設備維修(CPC6112)" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=6112">
+                汽車保養和維修服務，車體維修與類似服務，也包括道路緊急救援服務（automobile emergency road services）與清潔及基本保養服務，如洗車、上漆、拋光、打蠟等服務。［排除］36120輪胎翻新（retreaded tyres）
+            </item>
+            <item value="3" description="公路運輸設備 維修(CPC8867)" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=8867">
+                其他未分類的機動車輛、連結車與連結車後面掛的那一段的維修服務，採一次性收費或合約方式
+                <item-promise value="1" description="跨境提供服務">沒有限制</item-promise>
+                <item-promise value="2" description="境外消費">沒有限制</item-promise>
+                <item-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣以獨資、合資、
+合夥及設立分公司等形式設立商業據點，提供公路運輸設備維修服務4</item-promise>
+                <item-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾</item-promise>
+                <item-promise value="5" description="其他承諾">無</item-promise> 
+            </item>
+            <item value="4" description="公路運輸支援 服務業(CPC7441) —限公路客運的轉運站、車站、 調度站" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=7441">
+                限公路客運的轉運站、車站、調度站
+巴士站服務：針對市區、郊區與城市間的乘客轉運服務（7441沒有限公路）。［排除］74190行李與貨物處理服務
+                <item-promise value="1" description="跨境提供服務">技術上不可行</item-promise>
+                <item-promise value="2" description="境外消費">沒有限制</item-promise>
+                <item-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣以獨資、合資、
+合夥及設立分公司等形式設立商業據點，提供公路客運的轉運站、車站、調度站服務5</item-promise>
+                <item-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾</item-promise>
+                <item-promise value="5" description="其他承諾">無</item-promise> 
+            </item>
+            <item value="5" description="公路運輸支援服務業(CPC7442) —限公路橋樑及隧道管理" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=7442">
+                對於道路隧道橋樑河堤（causeways），採一次性收費或合約方式
+                <item-promise value="1" description="跨境提供服務">技術上不可行</item-promise>
+                <item-promise value="2" description="境外消費">沒有限制</item-promise>
+                <item-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣以合資形式設
+立商業據點，提供公路橋樑及隧道管理服務6。大陸服務提供者總持股比例須低於50%，不具控制力</item-promise>
+                <item-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾</item-promise>
+                <item-promise value="5" description="其他承諾">無</item-promise> 
+            </item>
+            <item value="6" description="公路運輸支援 服務業(CPC7443) —限停車場業" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=7443">
+                室內外各式停車場的停車服務
+                <item-promise value="1" description="跨境提供服務">技術上不可行</item-promise>
+                <item-promise value="2" description="境外消費">沒有限制</item-promise>
+                <item-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣以獨資、合資、
+合夥及設立分公司等形式設立商業據點，提供停車場服務</item-promise>
+                <item-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾</item-promise>
+                <item-promise value="5" description="其他承諾">無</item-promise> 
+            </item>
+            <item value="7" description="空中纜車運輸服 務(CPC71219**)" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=71219">
+                71213，其他未分類（71211-71214沒提到的）的由陸地車輛提供的客運，也包括纜車。
+其他乘客的陸路運輸由機械化陸地車輛，其他未分類。包括的是拉線式運輸服務，由高架纜車和索道的規劃基礎上提供類似的服務
+                <item-promise value="1" description="跨境提供服務">技術上不可行</item-promise>
+                <item-promise value="2" description="境外消費">沒有限制</item-promise>
+                <item-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣以獨資、合資、
+合夥及設立分公司等形式設立商業據點，提供空中纜車運輸服務</item-promise>
+                <item-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾</item-promise>
+                <item-promise value="5" description="其他承諾">無</item-promise> 
+            </item>
+        </cat-second>
+        <cat-second value="4" description="各類運輸之輔助性服務">
+            <item value="1" description="倉儲服務業 (CPC742)" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=742">a.74210，貨物冷凍或冷藏之倉儲服務（包括容易腐壞的食品）
+b.74220，液體或氣體的大容量倉儲服務
+c.74290，其他儲存或倉儲服務 ：包括棉花、糧食、羊毛、菸品、其他農產品與其他家用品
+                <item-promise value="1" description="跨境提供服務">技術上不可行</item-promise>
+                <item-promise value="2" description="境外消費">沒有限制</item-promise>
+                <item-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣以合資形式設
+立商業據點，提供倉儲服務7。大陸服務提供者總持股比例須低於50%，不具控制力。其中屬保稅倉儲者僅限位於港區內</item-promise>
+                <item-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾</item-promise>
+                <item-promise value="5" description="其他承諾">無</item-promise> 
+            </item>
+            <item value="2" description="貨運承攬服務 業(CPC7480)" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=7480">貨運代理服務：貨運經紀（Freight brokerage）服務，貨運轉發（freight forwarding）服務，船和飛行器的經紀服務，貨運整合與散貨服務（break-bulk services）
+                <item-promise value="1" description="跨境提供服務">沒有限制</item-promise>
+                <item-promise value="2" description="境外消費">沒有限制</item-promise>
+                <item-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣以合資形式設
+立商業據點，提供貨運承攬服務，投資航空、海運貨運承攬業總持股比例須低於50%，不具控制力</item-promise>
+                <item-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾</item-promise>
+                <item-promise value="5" description="其他承諾">無</item-promise> 
+            </item>    
+        </cat-second>
+    </cat-first>
+    <cat-first value="10" description="其他服務">
+        <cat-second value="1" description="其他服務">
+            <item value="2" description="洗衣及染色服務(CPC9701)" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=9701">
+
+1.洗衣收集服務  97011 
+有收據支付的洗衣服務，或是單純交付衣物而不進行清洗的服務(純收集and交付的業者)。
+2.紡織品和皮毛製品的清洗服務 97012 
+針對紡織品和皮毛製品進行乾洗以外的清洗服務。另外，也包含紡織品的清洗與租用服務，像是工作服…等。
+3.乾洗服務  97013 
+一般衣物及其它紡織品的乾洗服務，也包含了投幣式的乾洗服務。
+4.熨燙服務  97014 
+一般衣物及其它紡織品的熨燙服務，其中包含了床單及桌巾。
+5.染色和著色服務 97015 
+一般衣物及其它紡織品的染色及上色服務，但不包含紗線和定義在8842中的衣物。                
+                <item-promise value="1" description="跨境提供服務">技術上不可行</item-promise>
+                <item-promise value="2" description="境外消費">沒有限制</item-promise>
+                <item-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣以獨資、合資、
+合夥及設立分公司等形式設立商業據點，提供洗衣及染色服務</item-promise>
+                <item-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾</item-promise>
+                <item-promise value="5" description="其他承諾">無</item-promise> 
+            </item>
+            <item value="3" description="美髮和其他美容服務(CPC9702)" url="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&amp;Lg=1&amp;Co=9702">1.理髮和理髮師服務 97021
+一般美髮業所提供的理髮服務，也包含了修整鬍子相關服務
+2.美容治療、修指甲和修腳服務  97022 
+3.其他美容治療服務製造業 97029 
+包括個人衛生、身體護理、按摩、非治療性按摩，紫外線和紅外線照射…等其他相關服務
+                <item-promise value="1" description="跨境提供服務">技術上不可行</item-promise>
+                <item-promise value="2" description="境外消費">沒有限制</item-promise>
+                <item-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣以獨資、合資、
+合夥及設立分公司等形式設立商業據點，提供美髮和其他美容服務</item-promise>
+                <item-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾</item-promise>
+                <item-promise value="5" description="其他承諾">無</item-promise> 
+            </item>
+            <item value="4" description="殯儀館及火化場">
+                <item-promise value="1" description="跨境提供服務">技術上不可行</item-promise>
+                <item-promise value="2" description="境外消費">沒有限制</item-promise>
+                <item-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣以獨資、合資、
+合夥及設立分公司等形式設立商業據點，提供線上遊戲製作與研發服務</item-promise>
+                <item-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾</item-promise>
+                <item-promise value="5" description="其他承諾">無</item-promise> 
+            </item>
+            <item value="5" description="線上遊戲業(限製作與研發服務)">
+                <item-promise value="1" description="跨境提供服務">不予承諾</item-promise>
+                <item-promise value="2" description="境外消費">沒有限制</item-promise>
+                <item-promise value="3" description="商業據點呈現">允許大陸服務提供者在臺灣以獨資、合資、
+合夥及設立分公司等形式設立商業據點，提供線上遊戲製作與研發服務</item-promise>
+                <item-promise value="4" description="自然人呈現">同「電腦及其相關服務業」的承諾</item-promise>
+                <item-promise value="5" description="其他承諾">無</item-promise> 
+            </item>
+        </cat-second>
+    </cat-first>
+    <cat-first value="11" description="金融服務部門的開放承諾">
+        <cat-second value="1" description="承諾內容">
+            <item value="1" description="保險及其相關服務"></item>
+            <item value="2" description="銀行及其他金融服務(不包括證券期貨和保險)"></item>
+            <item value="3" description="證券、期貨及其相關服務"></item>
+            <cat-promise value="1" description="保險及其相關服務">
+                積極審慎修正有關大陸保險業在臺灣設立代表處及參股評等之規定。
+            </cat-promise>
+            <cat-promise value="2" description="銀行及其他金融服務(不包括證券期貨和保險)">
+                1.儘速取消大陸的銀行來臺灣設立分支機構及參股投資的 OECD 條件。
+2.已在臺灣設有分行的大陸的銀行符合條件者,可申請增設分行。
+3.單一大陸的銀行得申請投資臺灣上市(櫃)銀行 金控公司的持股比率
+提高至 10%(如加計大陸合格境內機構投資者為 15%);投資未上市
+(櫃)銀行、金控公司的持股比率提高至 15%;參股投資金控公司子
+銀行的持股比率可達 20%。參股投資金控公司或其子銀行,維持現
+行二者擇一規定。
+4.大陸的銀聯公司得申請來臺灣設立分支機構。
+            </cat-promise>
+            <cat-promise value="3" description="證券、期貨及其相關服務">
+                1.大陸證券期貨機構按照臺灣有關規定申請在臺灣設立代表人辦事處
+須具備的海外證券、期貨業務經驗為 2 年以上,且包括香港及澳門。
+2.循序放寬大陸合格境內機構投資者投資臺灣證券之限額,初期可考
+慮由 5 億美元提高至 10 億美元。
+3.積極研議放寬大陸證券期貨機構參股投資臺灣證券期貨機構的有關
+限制。
+4.積極研議大陸合格境內個人投資者投資臺灣資本市場。
+
+            </cat-promise>
+        </cat-second>
+    </cat-first>
+</root>
